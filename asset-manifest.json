@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.73621e72.css",
+    "main.js": "/my-portfolio/static/js/main.5ba5bf16.js",
+    "static/media/utd-logo.png": "/my-portfolio/static/media/utd-logo.3ea537a87b8a134a78f6.png",
+    "index.html": "/my-portfolio/index.html",
+    "main.73621e72.css.map": "/my-portfolio/static/css/main.73621e72.css.map",
+    "main.5ba5bf16.js.map": "/my-portfolio/static/js/main.5ba5bf16.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.73621e72.css",
+    "static/js/main.5ba5bf16.js"
+  ]
+}
