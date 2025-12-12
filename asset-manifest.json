@@ -1,14 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.73621e72.css",
-    "main.js": "/static/js/main.8071281c.js",
-    "static/media/utd-logo.png": "/static/media/utd-logo.3ea537a87b8a134a78f6.png",
+    "main.css": "/static/css/main.12a258e8.css",
+    "main.js": "/static/js/main.710e11c0.js",
     "index.html": "/index.html",
-    "main.73621e72.css.map": "/static/css/main.73621e72.css.map",
-    "main.8071281c.js.map": "/static/js/main.8071281c.js.map"
+    "main.12a258e8.css.map": "/static/css/main.12a258e8.css.map",
+    "main.710e11c0.js.map": "/static/js/main.710e11c0.js.map"
   },
   "entrypoints": [
-    "static/css/main.73621e72.css",
-    "static/js/main.8071281c.js"
+    "static/css/main.12a258e8.css",
+    "static/js/main.710e11c0.js"
   ]
 }
